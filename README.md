@@ -1,4 +1,4 @@
-## ⚙️ CPanel Node.js Setup Instructions
+## ⚙️ CPanel Node.js Setup Instructions - ReactRouter 7 (Remix)
 
 To get your application running on a **CPanel Node.js module**, follow these steps:
 
